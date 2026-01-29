@@ -1,4 +1,6 @@
 # 🎨 Art Museum Telegram Bot
+t.me/art_museum_serch_bot
+(yes, there is an error in the username, i know :) ) 
 
 ## 📋 Project Description
 
