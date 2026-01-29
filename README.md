@@ -233,6 +233,7 @@ Alexandra Zakharova, BA ; for the course 2025W 136031-1 GenAI for Humanists
 - Ollama team for the AI framework
 - Meta for the LLaMA model
 - Eugen - für alles! 😘
+- Renato - for the possibility to make something interesting in the WS 2025/26! Thank you! 
 ---
 
 **Enjoy exploring art! 🎨🖼️**
