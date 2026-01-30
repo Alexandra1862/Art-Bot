@@ -1,6 +1,6 @@
 # 🎨 Art Museum Telegram Bot
 ## t.me/art_museum_serch_bot
-## (yes, there is an error in the username, i know :) ) 
+## (yes, there is an error in the username, i know :)  i created a beta test version at the beginning and i can not use the same username with the "search" ord in it. still, as my bot is not that perfect, the bot is anso not perfect.
 
 ## 📋 Project Description
 
@@ -112,14 +112,14 @@ cd art-museum-bot
 ### Step 5: Run the Bot
 
 ```bash
-python multilingual_art_bot.py
+python bot_ai.py
 ```
 
 You should see:
 ```
 🧠 Testing Ollama...
 ✅ Ollama connected!
-🤖 🎨 Multilingual Art Museum Bot is running...
+🤖 🎨 Art Museum Bot is running...
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Languages: 🇬🇧 English | 🇷🇺 Русский | 🇩🇪 Deutsch
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
