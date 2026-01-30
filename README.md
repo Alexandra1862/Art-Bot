@@ -1,6 +1,6 @@
 # 🎨 Art Museum Telegram Bot
 ## t.me/art_museum_serch_bot
-## (yes, there is an error in the username, i know :)  i created a beta test version at the beginning and i can not use the same username with the "search" ord in it. still, as my bot is not that perfect, the bot is anso not perfect.
+## (yes, there is an error in the username, i know :)  i created a beta test version at the beginning, and i can not use the same username with the "search" word in it. Still, as my bot is not that perfect, username is also not perfect.
 
 ## 📋 Project Description
 
